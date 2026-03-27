@@ -4,3 +4,12 @@ body {
     background-color: black;
     font-family: sans-serif;
 }
+
+#fish-header {
+    color: aqua;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
